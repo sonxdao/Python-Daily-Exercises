@@ -1,2 +1,2 @@
 # Python-Daily-Exercises
-Python daily exercises
+This is where I upload all of my daily Python practice exercises.
